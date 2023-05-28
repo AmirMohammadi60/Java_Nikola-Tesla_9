@@ -23,7 +23,7 @@ public class tesla_9 {
      
     }
 	
-	
+	 //Checksum
 	 public static int calculateDigitSum(int number) {
 	        int sum = 0;
 	        int digit;
