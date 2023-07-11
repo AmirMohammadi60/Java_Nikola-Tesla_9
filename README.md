@@ -1,5 +1,5 @@
 # Java_Nokola-Tesla_9
-Wenn Sie eine zweistellige Zahl mit 9 multiplizieren und dann die Quersumme des Ergebnisses berechnen, wird das Ergebnis immer 9 sein.
+Wenn Sie eine Zahl mit 9 multiplizieren und dann die Quersumme des Ergebnisses berechnen, wird das Ergebnis immer 9 sein.
 Dies liegt daran, dass 9 eine besondere Eigenschaft hat, wenn es mit einer Zehnerpotenz multipliziert wird.
 
 Betrachten wir die Berechnung von 12 * 9 als Beispiel:
